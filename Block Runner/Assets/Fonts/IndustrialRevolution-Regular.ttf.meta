@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fb0889b86b97eaa459948d779384133c
+timeCreated: 1523796380
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Industrial Revolution
+  fontNames:
+  - Industrial Revolution
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 27e4e345f0ecc4f40a42ac00256647cc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
